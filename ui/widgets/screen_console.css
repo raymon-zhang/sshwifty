@@ -19,19 +19,19 @@
 
 @charset "utf-8";
 
-@import "~hack-font/build/web/hack.css";
+/*@import "~hack-font/build/web/hack.css";*/
 
 #connector-resource-preload-control-console {
-  font-family: Hack;
+  font-family: MesloLGS NF;
 }
 #connector-resource-preload-control-console::after {
   content: " ";
-  font-family: Hack;
+  font-family: MesloLGS NF;
   font-weight: bold;
 }
 #connector-resource-preload-control-console::before {
   content: " ";
-  font-family: Hack;
+  font-family: MesloLGS NF;
   font-style: italic;
 }
 
