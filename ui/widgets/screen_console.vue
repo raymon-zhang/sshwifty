@@ -116,7 +116,7 @@ import { consoleScreenKeys } from "./screen_console_keys.js";
 import "./screen_console.css";
 import "xterm/css/xterm.css";
 
-const termTypeFace = "Hack";
+const termTypeFace = "MesloLGS NF";
 const termFallbackTypeFace = "monospace";
 const termTypeFaceLoadTimeout = 3000;
 const termTypeFaceLoadError =
